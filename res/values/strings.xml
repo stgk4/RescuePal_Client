@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">rescueFinder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="stringArray_samplerate">
+        <item>10 samples/sec</item>
+        <item>50  samples/sec</item>
+        <item>100   samples/sec</item>
+        <item>150   samples/sec</item>
+        <item>200   samples/sec</item>
+        <item>250   samples/sec</item>
+        <item>300   samples/sec</item>
+        <item>350   samples/sec</item>
+        <item>400   samples/sec</item>
+        <item>450   samples/sec</item>
+        <item>500   samples/sec</item>
+    </string-array>
+    <string-array name="stringArray_expType">
+        <item>---Not Selected---</item>
+        <item>1.Static Victim and Rescuer</item>
+        <item>2.Victim in Motion</item>
+        <item>3.Victim and Rescuer in Motion</item>
+    </string-array>
+
+    <string name="Report_Title">SEARCH AND RESCUE WIFI CONNECTIVITY REPORT</string>
+    <string name="Report_Star_Seperator">**********************************************************</string>
+    
+    
+    
+    <string-array name="stringArray_FrequencyDetectionSamplerate">
+        <item>0.2 samples/sec</item>
+        <item>0.5 samples/sec</item>
+        <item>1   samples/sec</item>
+        <item>2   samples/sec</item>
+        <item>3   samples/sec</item>
+        <item>4   samples/sec</item>
+        <item>5   samples/sec</item>
+        <item>10   samples/sec</item>
+        <item>25   samples/sec</item>
+        <item>50   samples/sec</item>
+        <item>100   samples/sec</item>
+        <item>200   samples/sec</item>
+        <item>250   samples/sec</item>
+        <item>500   samples/sec</item>
+        <item>1000   samples/sec</item>
+    </string-array>
+    
+    <string-array name="stringArray_Frequencies">
+        <item>100 Hz</item>
+        <item>500 Hz</item>
+        <item>1.0 KHz</item>
+        <item>1.5 KHz</item>
+        <item>2.0 KHz</item>
+        <item>2.5 KHz</item>
+        <item>3.0 KHz</item>
+        <item>3.5 KHz</item>
+        <item>4.0 KHz</item>
+        <item>5.0 KHz</item>
+        <item>5.5 KHz</item>
+        <item>6.0 KHz</item>
+        <item>6.5 KHz</item>
+        <item>7.0 KHz</item>
+        <item>7.5 KHz</item>
+        <item>8.0 KHz</item>
+        <item>8.5 KHz</item>
+        <item>9.0 KHz</item>
+        <item>9.5 KHz</item>
+        <item>10.0 KHz</item>
+        <item>10.5 KHz</item>
+        <item>11.0 KHz</item>
+        <item>11.5 KHz</item>
+        <item>12.0 KHz</item>
+        <item>12.5 KHz</item>
+        <item>13.0 KHz</item>
+        <item>13.5 KHz</item>
+        <item>14.0 KHz</item>
+        <item>14.5 KHz</item>
+        <item>15.0 KHz</item>
+        <item>15.5 KHz</item>
+        <item>16.0 KHz</item>
+        <item>16.5 KHz</item>
+        <item>17.0 KHz</item>
+        <item>17.5 KHz</item>
+        <item>18.0 KHz</item>
+        <item>18.5 KHz</item>
+        <item>19.0 KHz</item>
+        <item>19.5 KHz</item>
+        <item>20.0 KHz</item>
+        <item>20.5 KHz</item>
+    </string-array>
+    
+    <string-array name="stringArray_PowerIndB">
+        <item>-90</item>
+        <item>-85</item>
+        <item>-80</item>
+        <item>-75</item>
+        <item>-70</item>
+        <item>-65</item>
+        <item>-60</item>
+        <item>-55</item>
+        <item>-50</item>
+        <item>-40</item>
+        <item>-45</item>
+        <item>-40</item>
+        <item>-35</item>
+        <item>-30</item>
+        <item>-25</item>
+        <item>-20</item>
+        <item>-15</item>
+        <item>-10</item>
+        <item>-5</item>
+        <item> 0</item>
+    </string-array>
+
+</resources>
